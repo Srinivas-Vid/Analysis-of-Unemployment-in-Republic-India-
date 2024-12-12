@@ -30,5 +30,8 @@ This project analyzes unemployment trends in the Republic of India using publicl
 - Include more demographic parameters such as education level and industry type.
 - Automate data updates with APIs for real-time analysis.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details
+
 ## Contact
 For questions or collaboration, please reach out to Srinivas Erramalla at srinivaserramalla5@gmail.com.
